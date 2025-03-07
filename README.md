@@ -12,4 +12,4 @@ What you see is on 2nd prompt
 2nd Prompt: Workaround to CSP was easy, as nothing malicious, just wasn't taken into account in first prompt.
 
 ## Buttons look like always there
-They aren't, but they persist now 😉
+They weren't, but they persist now 😉
